@@ -1,5 +1,5 @@
 
-![Contractus](./project-banner.png)
+![Contractus](https://github.com/ContractusTech/.github/raw/main/profile/project-banner.png)
 
 ## Contractus
 
