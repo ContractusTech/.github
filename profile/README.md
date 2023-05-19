@@ -1,5 +1,5 @@
 
-![Contractus](./../assets/project-banner.png)
+![Contractus](project-banner.png)
 
 ## Contractus
 
