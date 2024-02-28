@@ -3,9 +3,8 @@
 
 ## Contractus
 
-Blockchain-based service for secure and encrypted one-click processing of contract signatures.
-
 - [Project website](https://contractus.tech)
+- [WebApp repository](https://github.com/ContractusTech/contractus-web)
 - [iOS app repository](https://github.com/ContractusTech/contractus-ios)
 - Android app repository *(soon)*
 - [Solana Contract](https://github.com/ContractusTech/solana-contract)
