@@ -1,6 +1,8 @@
 
 ![Contractus](https://github.com/ContractusTech/.github/raw/main/profile/project-banner.png)
 
+Platform for safe deals and private p2p investments. Here people invest in each other for the future success.
+
 ## Contractus
 
 - [Project website](https://contractus.tech)
